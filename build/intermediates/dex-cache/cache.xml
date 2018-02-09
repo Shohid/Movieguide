@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\glide-3.7.0_54a450e416c2a0a55de0c08de24f70ffda13d594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\okio-1.11.0_4fe655270a6b85bbb435a8c995221bcf67814369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.5\571f4e0451db64a7b41dbeb5f2503986fe5acdb4\dagger-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\dagger-2.5_3ee1770dae02012d9ad0b3cfcca67980abd5b23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_6e567acd896ab0ac8d36e5eaded98874ca591209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_54bd2ef63f2d7ee3321208ee3f0d2baf8a1ace5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.squareup.moshi\moshi\1.1.0\9c665b797ef9427f6d73572642dcb5f90270f7d3\moshi-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c665b797ef9427f6d73572642dcb5f90270f7d3">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\moshi-1.1.0_756b61033bbc972b48ff7db2962bd69d43cc7359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_9a6ee598a60e390afad86ea3516fd8fe098ef61d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07a1832fdb6b44c0f4ec761ac3de02bfd3508269">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.github.bumptech.glide-okhttp3-integration-1.4.0_db28cc78580b75f628b507e77155c435480b6e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.1.1_c3f3ebe73d26cea38e1825c5beddbda20509b9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\javax.inject-1_3745287bb112d1dba78dc63837785e314a56fcb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_3cd0d377db0d760c993a599406e31010d5938ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_14303111a2b5de005d56bbfaecb453258cf55d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eae1cf1d84c28f65c398936bdc776c228f12f194">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_055df3841cbcc7e8a1f88cf2fff9aa65b2ae371a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_6809114725436cd7d6d2a11ea6fa579cacfd3b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.5.0\94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397\logging-interceptor-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.5.0_00f0169ed898240452cf3efb2657591a04b4e3e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.7\138872ff3173fb7bee8b1d6303d6edb57d76599\rxjava-1.2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0138872ff3173fb7bee8b1d6303d6edb57d76599">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\rxjava-1.2.7_83e14cbba166adf4db729f822ba07d6e4c21aba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30c1b5777909ef5e039abcda867468de33d0af33">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\instant-run_7ba7bd9083b5093946b3ca8c71bee8259045f19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_192d25de6e2ea4db79bb29ebd03fd053b1093786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_7b58198cbb137fedd8dfb34a12fc26a7e98b13aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_84bc3b169f52df512dd6727a26ddd7742c873ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_bae7c3cdd487ce4639009e34416fbd7be47a243c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\okhttp-3.5.0_996a95f89b9b94e79c1e77cf6ec5ec52339058f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Me\.gradle\caches\modules-2\files-2.1\net.jcip\jcip-annotations\1.0\afba4942caaeaf46aab0b976afd57cc7c181467e\jcip-annotations-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="afba4942caaeaf46aab0b976afd57cc7c181467e">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\jcip-annotations-1.0_f0d32c586bd79a2f8d66a52aa0c0ab240b5e82e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\amdroid\Movieguide\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\amdroid\Movieguide\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_27bc4cf78a061bba403a41d10478bb88744f4875.jar" />
+    </item>
+
+</items>
