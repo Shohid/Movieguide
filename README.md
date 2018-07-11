@@ -4,7 +4,7 @@ Project  Name: Movie Rating app  for suggesting movie, review, IBMA rating etc.
 
 Year : 2017
 
-Project type: A Simple University project.
+Project type: A Simple Android app.
 
 Tools Used:  Android , Java, Android  Studio
 
